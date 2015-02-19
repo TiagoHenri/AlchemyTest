@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Project\Scripts\Arrow.cs">
+    <Files>
+      <File FileName="Assets\Project\Scripts\Arrow.cs" Line="43" Column="16" />
+      <File FileName="Assets\Project\Scripts\Basic_Atk.cs" Line="21" Column="18" />
+      <File FileName="Assets\Project\Scripts\MovementBasic.cs" Line="29" Column="3" />
+      <File FileName="Assets\Project\Scripts\Old Scripts\Button.cs" Line="25" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
